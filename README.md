@@ -1,3 +1,3 @@
 # website
 
-Just for navbar
+For Responsive navbar only.
